@@ -11,3 +11,6 @@ Introduction
 ------------
 
 TODO:
+
+- package this backend and publish to PyPI
+- enable testing
